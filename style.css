@@ -1,0 +1,24 @@
+div{
+    background-color: cornsilk;
+}
+ 
+h1{
+    color:blue;/*color de letra*/
+    font-size: 90px;/*tamaña de letra*/
+text-align: center;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+p{
+    color: chocolate;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 40px;
+}
+
+img{
+        width: 300px;/*tamaño de ancho*/
+        height: 300px;/*tamaño de alto*/
+        border-radius: 50%; /*borde redondo*/
+    }
+    .otroDiv{
+        background-color: coral;
+    }
